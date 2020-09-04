@@ -1,7 +1,7 @@
 # Smart-Budget-Analysis-of-Uttar-Pradesh-And-Telangana(VIZ team)-
 Budget Analysis of Pre COVID and COVID timelines were done to suggest the U.P and Telangana Governments their next line of action on the areas where more well defined plan is needed
 
-## Headers needed for the Analysis from Annual Financial Statements of the two states
+## Headers(Receipts and Expenses) needed for the Analysis from Annual Financial Statements of the two states
 -Analysed the economical importance of the headers and subheaders that would be most likely to impact the Budget alloctaion and selected those to do further analysis
 
 -For the Pre COVID timeline, the AFS sheets of past 5 ears were used and to analyse the current COVID timeline projections of several agencies were used 
