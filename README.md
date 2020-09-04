@@ -17,4 +17,4 @@ Budget Analysis of Pre COVID and COVID timelines were done to suggest the U.P an
 
 -After this, the total number of pairs of headers and sub-headers obtained were 50 and the I performed linear regression and validated the correlation previously obtained with the pearson's coefficient obtained in linear regression
 
--Performed Visualization of those headers and sub-headers for the past five years as well as the predicted values
+-Performed Visualization and pair plots of those headers and sub-headers for the past five years as well as the predicted values
